@@ -1,0 +1,15 @@
+C:\Users\si010\source\repos\OROPP 5\bin\Debug\net6.0\OROPP 5.exe
+C:\Users\si010\source\repos\OROPP 5\bin\Debug\net6.0\OROPP 5.deps.json
+C:\Users\si010\source\repos\OROPP 5\bin\Debug\net6.0\OROPP 5.runtimeconfig.json
+C:\Users\si010\source\repos\OROPP 5\bin\Debug\net6.0\OROPP 5.dll
+C:\Users\si010\source\repos\OROPP 5\bin\Debug\net6.0\OROPP 5.pdb
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\OROPP 5.csproj.AssemblyReference.cache
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\OROPP 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\OROPP 5.AssemblyInfoInputs.cache
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\OROPP 5.AssemblyInfo.cs
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\OROPP 5.csproj.CoreCompileInputs.cache
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\OROPP 5.dll
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\refint\OROPP 5.dll
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\OROPP 5.pdb
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\OROPP 5.genruntimeconfig.cache
+C:\Users\si010\source\repos\OROPP 5\obj\Debug\net6.0\ref\OROPP 5.dll

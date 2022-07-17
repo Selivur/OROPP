@@ -1,0 +1,5 @@
+C:\Users\si010\source\repos\OROPP_6\obj\Debug\net6.0\OROPP_6.csproj.AssemblyReference.cache
+C:\Users\si010\source\repos\OROPP_6\obj\Debug\net6.0\OROPP_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si010\source\repos\OROPP_6\obj\Debug\net6.0\OROPP_6.AssemblyInfoInputs.cache
+C:\Users\si010\source\repos\OROPP_6\obj\Debug\net6.0\OROPP_6.AssemblyInfo.cs
+C:\Users\si010\source\repos\OROPP_6\obj\Debug\net6.0\OROPP_6.csproj.CoreCompileInputs.cache

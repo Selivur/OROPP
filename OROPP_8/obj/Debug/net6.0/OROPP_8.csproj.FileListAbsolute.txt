@@ -1,0 +1,15 @@
+C:\Users\si010\source\repos\OROPP_8\bin\Debug\net6.0\OROPP_8.exe
+C:\Users\si010\source\repos\OROPP_8\bin\Debug\net6.0\OROPP_8.deps.json
+C:\Users\si010\source\repos\OROPP_8\bin\Debug\net6.0\OROPP_8.runtimeconfig.json
+C:\Users\si010\source\repos\OROPP_8\bin\Debug\net6.0\OROPP_8.dll
+C:\Users\si010\source\repos\OROPP_8\bin\Debug\net6.0\OROPP_8.pdb
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\OROPP_8.csproj.AssemblyReference.cache
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\OROPP_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\OROPP_8.AssemblyInfoInputs.cache
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\OROPP_8.AssemblyInfo.cs
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\OROPP_8.csproj.CoreCompileInputs.cache
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\OROPP_8.dll
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\refint\OROPP_8.dll
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\OROPP_8.pdb
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\OROPP_8.genruntimeconfig.cache
+C:\Users\si010\source\repos\OROPP_8\obj\Debug\net6.0\ref\OROPP_8.dll
